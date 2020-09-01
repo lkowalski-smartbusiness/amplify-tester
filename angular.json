@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "amplify-tester"
+    }
+  },
+  "defaultProject": "amplify-tester",
+  "cli": {
+    "analytics": false
+  }
 }
